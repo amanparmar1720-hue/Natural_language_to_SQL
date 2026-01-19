@@ -13,14 +13,14 @@ This makes data access easier for non-technical users, analysts, and beginners w
 
 ---
 
-##  Why This Project?
+##  Why This Project ?
 1. Writing SQL can be difficult for beginners
 2. Business users prefer asking questions in natural language
 3. This project bridges the gap between human language and databases
 
 ---
 
-##  How It Works (Simple Explanation)
+##  How It Works ?
 1. The user enters a question in English
 2. The system:
    - Understands the intent of the question
