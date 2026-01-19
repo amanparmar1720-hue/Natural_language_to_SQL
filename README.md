@@ -1,6 +1,6 @@
 # 🧠 Natural Language to SQL
 
-## 📌 Project Overview
+##  Project Overview
 This project converts plain English questions into SQL queries automatically.
 
 Instead of writing SQL manually, a user can type a question like:
@@ -13,14 +13,14 @@ This makes data access easier for non-technical users, analysts, and beginners w
 
 ---
 
-## 🎯 Why This Project?
-- Writing SQL can be difficult for beginners
-- Business users prefer asking questions in natural language
-- This project bridges the gap between human language and databases
+##  Why This Project?
+1. Writing SQL can be difficult for beginners
+2. Business users prefer asking questions in natural language
+3. This project bridges the gap between human language and databases
 
 ---
 
-## ⚙️ How It Works (Simple Explanation)
+##  How It Works (Simple Explanation)
 1. The user enters a question in English
 2. The system:
    - Understands the intent of the question
