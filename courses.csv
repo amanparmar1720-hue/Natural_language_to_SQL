@@ -1,0 +1,16 @@
+course_id,course_name,department,credits,semester,faculty_id
+1,Data Structures and Algorithms,CSE,4,Fall,13
+2,Machine Learning Fundamentals,CSE,4,Spring,5
+3,Materials Science Principles,MSE,3,Fall,7
+4,Thermodynamics,CHEMICAL,4,Spring,21
+5,Chemical Process Design,CHEMICAL,3,Fall,12
+6,Fluid Mechanics,MECHANICAL,4,Spring,38
+7,Heat Transfer,MECHANICAL,3,Fall,28
+8,Aerodynamics,AEROSPACE,4,Spring,17
+9,Spacecraft Propulsion,AEROSPACE,3,Fall,50
+10,Geology and Earth Systems,EARTH SCIENCE,3,Spring,16
+11,Structural Analysis,CIVIL,4,Fall,45
+12,Quantum Mechanics,PHYSICS,5,Spring,23
+13,Classical Mechanics,PHYSICS,4,Fall,25
+14,Organic Chemistry,CHEMISTRY,4,Spring,40
+15,Analytical Chemistry,CHEMISTRY,3,Fall,40
