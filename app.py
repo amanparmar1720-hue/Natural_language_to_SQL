@@ -13,6 +13,17 @@ from nl_to_sql import (
 st.set_page_config(page_title="Natural Language → SQL (Gemini)", page_icon="🧠", layout="centered")
 st.title("🧠 Natural Language → SQL ")
 st.caption("Built by **AMAN KUMAR PARMAR**")
+st.title("🧠 Natural Language → SQL")
+st.caption("Built by **Aman Kumar Parmar**")
+
+st.markdown(
+    """
+    **What does Natural Language → SQL mean?**  
+    Ask questions about your data in plain English and automatically convert them  
+    into SQL queries that can be executed on your datasets.
+    """
+)
+
 st.write(
     "Upload your CSV files, paste your prompt/schema, ask a question → get SQL "
     "(and optionally execute it on the uploaded data)."
