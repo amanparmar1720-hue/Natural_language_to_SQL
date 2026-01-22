@@ -58,7 +58,7 @@ st.subheader("1) Paste your Prompt / Schema")
 prompt = st.text_area(
     "Prompt / Schema",
     height=260,
-    placeholder="ROLE : You are a highly skilled Text-to-SQL translator with expertise in SQL syntax, database schema interpretation, and natural language understanding. You generate syntactically correct and semantically accurate SQL queries based on user input and a given database schema.............."
+    placeholder="Describe your database schema, tables, and relationships here.........."
 )
 
 # -----------------------------
