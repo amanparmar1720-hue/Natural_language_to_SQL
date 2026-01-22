@@ -1,0 +1,51 @@
+faculty_id,first_name,last_name,email,department,designation
+1,Audrey,Jacobs,audrey.jacobs@university.edu,CSE,Assistant Professor
+2,Jerry,Scott,jerry.scott@university.edu,CHEMICAL,Associate Professor
+3,Jayden,Chen,jayden.chen@university.edu,MSE,Assistant Professor
+4,Roy,Campbell,roy.campbell@university.edu,MSE,Assistant Professor
+5,Virginia,Mendez,virginia.mendez@university.edu,CSE,Associate Professor
+6,Edward,Harvey,edward.harvey@university.edu,CHEMICAL,Assistant Professor
+7,Oscar,Li,oscar.li@university.edu,MSE,Assistant Professor
+8,Elena,Castro,elena.castro@university.edu,PHYSICS,Assistant Professor
+9,Natalie,Gonzales,natalie.gonzales@university.edu,PHYSICS,Associate Professor
+10,Katelyn,Owens,katelyn.owens@university.edu,CIVIL,Associate Professor
+11,Caleb,Howard,caleb.howard@university.edu,CHEMISTRY,Professor
+12,Preston,Gutierrez,preston.gutierrez@university.edu,CHEMICAL,Assistant Professor
+13,Hazel,Nunez,hazel.nunez@university.edu,CSE,Associate Professor
+14,Paul,Nelson,paul.nelson@university.edu,MSE,Professor
+15,Erica,Stevens,erica.stevens@university.edu,MECHANICAL,Associate Professor
+16,Stephen,Henderson,stephen.henderson@university.edu,EARTH SCIENCE,Assistant Professor
+17,Debra,Hamilton,debra.hamilton@university.edu,AEROSPACE,Assistant Professor
+18,Tina,Peters,tina.peters@university.edu,MECHANICAL,Assistant Professor
+19,Adam,Wood,adam.wood@university.edu,EARTH SCIENCE,Assistant Professor
+20,Danielle,Lopez,danielle.lopez@university.edu,EARTH SCIENCE,Associate Professor
+21,Dominic,Ford,dominic.ford@university.edu,CHEMICAL,Assistant Professor
+22,Sean,O'Brien,sean.o'brien@university.edu,CHEMICAL,Professor
+23,Jonathan,Wilson,jonathan.wilson@university.edu,PHYSICS,Assistant Professor
+24,Bennett,Harris,bennett.harris@university.edu,CHEMISTRY,Associate Professor
+25,Blake,Black,blake.black@university.edu,PHYSICS,Assistant Professor
+26,Ashton,Butler,ashton.butler@university.edu,PHYSICS,Associate Professor
+27,Lillian,Cook,lillian.cook@university.edu,EARTH SCIENCE,Associate Professor
+28,Samuel,Simpson,samuel.simpson@university.edu,MECHANICAL,Assistant Professor
+29,Owen,Richards,owen.richards@university.edu,CHEMICAL,Assistant Professor
+30,Heather,Hayes,heather.hayes@university.edu,CHEMICAL,Assistant Professor
+31,Ruth,Willis,ruth.willis@university.edu,CHEMICAL,Assistant Professor
+32,Evan,Williams,evan.williams@university.edu,CHEMISTRY,Assistant Professor
+33,Anna,Stewart,anna.stewart@university.edu,MSE,Assistant Professor
+34,George,Andrews,george.andrews@university.edu,MSE,Associate Professor
+35,Zoe,Patel,zoe.patel@university.edu,AEROSPACE,Professor
+36,Austin,Santos,austin.santos@university.edu,EARTH SCIENCE,Associate Professor
+37,Ryder,Hunt,ryder.hunt@university.edu,AEROSPACE,Assistant Professor
+38,Declan,Harper,declan.harper@university.edu,MECHANICAL,Associate Professor
+39,Gregory,Dunn,gregory.dunn@university.edu,EARTH SCIENCE,Associate Professor
+40,Jeremy,Contreras,jeremy.contreras@university.edu,CHEMISTRY,Associate Professor
+41,Maya,Marshall,maya.marshall@university.edu,EARTH SCIENCE,Associate Professor
+42,Alexander,Clark,alexander.clark@university.edu,EARTH SCIENCE,Assistant Professor
+43,Monica,Tucker,monica.tucker@university.edu,CIVIL,Associate Professor
+44,Keith,Snyder,keith.snyder@university.edu,PHYSICS,Assistant Professor
+45,Doreen,Rodriguez,doreen.rodriguez@university.edu,CIVIL,Professor
+46,Donald,Riley,donald.riley@university.edu,CIVIL,Associate Professor
+47,Walter,Foster,walter.foster@university.edu,PHYSICS,Assistant Professor
+48,Naomi,Jackson,naomi.jackson@university.edu,CSE,Associate Professor
+49,Elliott,Schmidt,elliott.schmidt@university.edu,CHEMISTRY,Associate Professor
+50,Wesley,Mitchell,wesley.mitchell@university.edu,AEROSPACE,Professor
