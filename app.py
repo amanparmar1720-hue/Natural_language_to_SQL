@@ -24,10 +24,7 @@ st.markdown(
     """
     **How It Works ?**  
        1. The user enters a question in English
-       2. The system:
-          --Understands the intent of the question
-          --Identifies tables, columns, and conditions
-          --Generates a valid SQL query based on the database schema
+       2. The system understands the intent of the question then identifies tables, columns, and conditions after which it generates a valid SQL query based on the database schema
        3. The SQL query can then be executed on the database
     """
 )
