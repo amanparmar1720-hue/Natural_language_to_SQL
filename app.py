@@ -60,6 +60,11 @@ prompt = st.text_area(
     height=260,
     placeholder="Describe your database schema, tables, and relationships here.........."
 )
+st.caption(
+    "To know the unified framework for an effective prompt, click here: "
+    "[A Unified Framework for an Effective Prompt](https://www.geeksforgeeks.org/data-science/a-unified-framework-for-an-effective-prompt/)"
+)
+
 
 # -----------------------------
 # Upload CSVs (generic)
