@@ -20,7 +20,17 @@ st.markdown(
     into SQL queries that can be executed on your datasets.
     """
 )
-
+st.markdown(
+    """
+    **How It Works ?**  
+       1. The user enters a question in English
+       2. The system:
+          --Understands the intent of the question
+          --Identifies tables, columns, and conditions
+          --Generates a valid SQL query based on the database schema
+       3. The SQL query can then be executed on the database
+    """
+)
 st.write(
     "Upload your CSV files, paste your prompt/schema, ask a question to get SQL "
     "(and optionally execute it on the uploaded data)."
